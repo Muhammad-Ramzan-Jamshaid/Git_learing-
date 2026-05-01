@@ -1,4 +1,0 @@
-# if i want to ignore a file form uploading in git then i use 
-*.css
-# and if i want to ignore a particuar file then only write file name 
-app.js
